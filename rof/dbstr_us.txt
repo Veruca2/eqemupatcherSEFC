@@ -65,6 +65,7 @@
 4^13^Rangers^0
 4^15^With the exception of a few seedy characters, Qeynos is a fairly safe place for Humans on the west coast of the continent of Antonica.  While many Humans live in Qeynos, they can be seen wandering all over Norrath, particularly in the port city on the eastern coast, called Freeport.^0
 4^16^4 (Weapon: General)^0
+4^18^Radiant Crystal^0
 4^19^Shroud - Activated^0
 4^20^Planes of Power^0
 4^24^Reactive^0
