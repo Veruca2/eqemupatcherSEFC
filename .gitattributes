@@ -71,3 +71,18 @@
 *.PDF   diff=astextplain
 *.rtf   diff=astextplain
 *.RTF   diff=astextplain
+
+###############################################################################
+# EQ client binary UI / texture assets. Do not line-ending normalize these.
+###############################################################################
+*.tga binary
+*.dds binary
+*.bmp binary
+*.cur binary
+*.wav binary
+*.ogg binary
+*.spr binary
+*.wld binary
+*.zon binary
+*.emt binary
+*.edd binary
