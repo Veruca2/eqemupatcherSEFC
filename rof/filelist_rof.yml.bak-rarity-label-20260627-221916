@@ -197,9 +197,9 @@ downloads:
   date: "20260307"
   size: 6368399
 - name: dinput8.dll
-  md5: 8952F7FFF9088C7788EC2287B9A5351C
+  md5: 85405ABA2C4C4ECE5DE60380C282DF56
   date: "20260627"
-  size: 1446400
+  size: 1445888
 - name: eqhost.txt
   md5: 0b8db6f2edd1f39044b81378f4f81c70
   date: "20260205"
