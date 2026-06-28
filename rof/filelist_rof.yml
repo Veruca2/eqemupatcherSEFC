@@ -1,4 +1,4 @@
-﻿version: 20260627a042336ef7b5322c08565335ea6ca588
+version: 20260627a042336ef7b5322c08565335ea6ca588
 downloadprefix: http://rebuildeq.com/patch/rof/
 downloads:
 - name: HighPassHold.mp3
@@ -196,10 +196,10 @@ downloads:
   md5: d42c589e8645542b2f45ee62f10e5427
   date: "20260307"
   size: 6368399
-`- name: dinput8.dll
-  md5: 22B219D9CF8F52D7BC4138034A56B85D
+- name: dinput8.dll
+  md5: 32392F25496D5A323B6AF2C6021325F4
   date: "20260628"
-  size: 1446912
+  size: 1444352
 - name: eqhost.txt
   md5: 0b8db6f2edd1f39044b81378f4f81c70
   date: "20260205"
