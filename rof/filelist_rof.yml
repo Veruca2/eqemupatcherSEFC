@@ -1,4 +1,4 @@
-version: 20260627a042336ef7b5322c08565335ea6ca588
+﻿version: 20260627a042336ef7b5322c08565335ea6ca588
 downloadprefix: http://rebuildeq.com/patch/rof/
 downloads:
 - name: HighPassHold.mp3
@@ -196,8 +196,8 @@ downloads:
   md5: d42c589e8645542b2f45ee62f10e5427
   date: "20260307"
   size: 6368399
-- name: dinput8.dll
-  md5: A5F62851E9E2BF41CA9CD52B10EEA66E
+`- name: dinput8.dll
+  md5: 22B219D9CF8F52D7BC4138034A56B85D
   date: "20260628"
   size: 1446912
 - name: eqhost.txt
@@ -252,3 +252,34 @@ downloads:
   md5: ade46dc1cef1aa619f12ff64f81ac180
   date: "20260609"
   size: 262188
+
+- name: uifiles/default/EQUI.xml
+  md5: 698DE851BDFC8339B06F8C502F6F4539
+  date: "20260628"
+  size: 9439
+
+- name: uifiles/default/EQUI_NativeAutoLootWnd.xml
+  md5: BB208F3A8E5A697468ED9D946FB62A28
+  date: "20260628"
+  size: 621926
+
+- name: uifiles/default/EQUI_Animations.xml
+  md5: 4A4952BEDF38388FD47DA111B3062A2D
+  date: "20260628"
+  size: 2640483
+
+- name: uifiles/default/EQUI_Templates.xml
+  md5: 657EC45F3C31A5427ABAB97185CCB60D
+  date: "20260628"
+  size: 107402
+
+- name: uifiles/default/nal_pieces07.tga
+  md5: 195134798E136A97DAF2E7DAAD6ECE62
+  date: "20260628"
+  size: 262188
+
+- name: uifiles/default/nal_pieces11.tga
+  md5: ADE46DC1CEF1AA619F12FF64F81AC180
+  date: "20260628"
+  size: 262188
+
