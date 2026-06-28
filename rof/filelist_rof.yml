@@ -196,10 +196,6 @@ downloads:
   md5: d42c589e8645542b2f45ee62f10e5427
   date: "20260307"
   size: 6368399
-- name: dinput8.dll
-  md5: DBC9ABE76F50D24213FC9BDBAE2617A6
-  date: "20260628"
-  size: 1433088
 - name: eqhost.txt
   md5: 0b8db6f2edd1f39044b81378f4f81c70
   date: "20260205"
@@ -283,7 +279,7 @@ downloads:
   date: "20260628"
   size: 262188
 
-- name: item_rarity_native.dll
-  md5: 7D6B97D2AA797EE2308EBFCDA8C70202
+- name: dinput8.dll
+  md5: 22B219D9CF8F52D7BC4138034A56B85D
   date: "20260628"
-  size: 158208
+  size: 1260032
