@@ -1,1 +1,8 @@
-
+P -1246.0000, 44.0000, 249.6462,  0, 0, 0,  3,  Hive_Egg_Tender
+P -670.6504, 27.2272, 153.6956,  0, 0, 0,  3,  Sintal
+P -1118.0000, -311.0000, 453.2074,  0, 0, 0,  3,  Drachnid_Poisonmaster
+P -1175.7500, -328.2500, 222.9212,  0, 0, 0,  3,  Drithnak_the_Exiled_(Roamer)
+P -915.5028, 728.8518, 81.6867,  0, 0, 0,  3,  Drachnid_Overseer_Faruzalk
+P -1289.2748, 372.8276, 145.6437,  0, 0, 0,  3,  Elder_Ritualist_Longshadow
+P -1541.0000, 201.0000, 13.5000,  0, 0, 0,  3,  Defiant_Chieftan_Uruk
+P -1172.0000, -371.0000, 374.8933,  0, 0, 0,  3,  Drachnid_Prophet_Riznar
